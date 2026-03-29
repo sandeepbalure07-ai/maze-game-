@@ -4,6 +4,7 @@ let ctx = maze.getContext('2d')
 let generationComplete = false
 let current
 let goal
+let score = 0;
 
 let roww
 let coll
